@@ -1,24 +1,104 @@
-# 👋 백엔드 개발자 Juno 입니다!
+<div align="center">
+  <img src="./main2.gif" />
+</div>
 
-- 내가 쓴 코드가 많은 사람들에게 쉽게 전달될 수 있도록 하는 과정에서 큰 보람을 느낍니다.
+---
 
-- 단순한 작업 결과물이 아닌, 지식을 기록하는 남기는 하나의 문서처럼 생각하고 작성합니다.
+<h3 align="center">About me</h3>
+<div align="center">
+  <!--블로그-->
+  <a href="https://dailylifeofmarmot.tistory.com">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  &nbsp
+  <a href="-">
+    <img src="https://img.shields.io/badge/Bucket List-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  &nbsp
+  <a href="-">
+    <img src="https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  &nbsp
+  <a href="-">
+    <img src="https://img.shields.io/badge/portfolioWeb-808080?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  &nbsp
+  
+  <h4>📍Education </h4>
+   - Korea National Open University Department of Statistics and Data Science (Expected Graduate : ( - 02/2026)
+   <br>
+   
+  <br>
+  
+  <h4>📍Organizations </h4>
+  - Kakao Tech BootCamp (카카오테크 부트캠프) : AI 과정 (9/2025) 
+  <br>
+  - B.D.A (빅데이터 분석 학회) : 학회원 / 전국 대학생 연합 빅데이터 학회 (9/2025 ~ ) 
+  <br>
+  - ABC BootCamp (ABC 부트캠프) : Data 과정 (7/2025 - 8/2025) 
+  <br>
+  - KNOU Regression-model Club (대학교 회귀모형 스터디 동아리) : Presenter(발표자) (3/2025 - 7/2025) 
+<!--   
+  <h4>📍Awards</h4>
+   - 2024 세종시 농협 장학생 
+  <br>
+   - 2025 Awards for Excellent ABC Program Essays
+  <br>
+  <div>
+  <h4>📍experiences</h4>
+  - 2025 카카오 개발자 컨퍼런스 ( if(kakao)25 ) : Attendees
+   <br>
+  </div>
+</div>
 
-- 많은 사람들이 내 코드를 읽을 때, 쉽게 이해할 수 있도록 코드의 깔끔함을 유지하려고 항상 신경 쓰고 노력합니다.
+<br>
+<h4>📍Qualifications </h4>
+- ADSP (11/2024)
+<br>
+- 정보처리기사(필기 합격(09/2025), 실기 공부 중(11/2025))
+<br>
+<br><br>
+<!--내용 부분-->
+<h3 align="center">🪐 Studying 🪐</h3>
+<div align="center">
+  <!--python/html/css/gcp/ swift/swiftui-->
 
-# 🏆 Awards
--
-- 
-# ✏️ Tech Stack
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
+&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  &nbsp
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white
+" />
+  &nbsp
 
-- **Backend**: 
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  <!-- git/ github / vscode / 노션 / 피그마 -->
 
-- **DevOps**:
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-  ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  <br>
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp
+    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+    &nbsp
+
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  &nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  &nbsp
+
+</div>
+
+<h3 align="center">🪐 Interested 🪐</h3>
+<div align="center">
+  <!--리액트/타입스크립트/sql-->
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  &nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  &nbsp
+  
+</div>
+
+<h4>📍languages </h4>
+  - OPIc : IH(를 따기 위한 노력 중에 있음.)
