@@ -34,7 +34,7 @@
   - ABC BootCamp (ABC 부트캠프) : Data 과정 (7/2025 - 8/2025) 
   <br>
   - KNOU Regression-model Club (대학교 회귀모형 스터디 동아리) : Presenter(발표자) (3/2025 - 7/2025) 
-<!--   
+  
   <h4>📍Awards</h4>
    - 2024 세종시 농협 장학생 
   <br>
